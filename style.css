@@ -174,7 +174,7 @@ body {
 }
 
 .linkulmeu {
-  text-align: center;
+  text-align: center;  /* centreaza div-ul "linkulmeu" in mijlocul paginii*/
   margin: 1rem;
 }
   

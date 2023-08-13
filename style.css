@@ -97,11 +97,11 @@ body {
     overflow: hidden;
     --content-padding: 1.5rem;
     --content-spacing: 0.5rem;
-    max-width: 650px;
+    max-width: 600px;
     
 }
 
-@media (min-width: 650px) {
+@media (min-width: 600px) {
 
   .product {
     grid-template-columns: 1fr 1fr;
